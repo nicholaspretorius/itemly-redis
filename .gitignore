@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+dist/
+coverage/
+docs/
+*.env
+ormconfig.json
+.vscode/
